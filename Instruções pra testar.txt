@@ -1,0 +1,12 @@
+Instruções para testar o software
+
+-Abra o projeto no Visual Studio
+-Clique com botão direito no projeto, e clique em adicionar -> item, e depois adicione um serviço
+baseado em banco de dados.
+-Na aba gerenciador de serviadores, crie uma nova consulta para o banco.
+-Copie o texto do arquivo create.sql, que está na pasta do projeto.
+
+Requisitos
+
+-SQL Server instalado
+-Framework .NET v4.6.1

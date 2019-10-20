@@ -1,0 +1,66 @@
+C:\Users\W7\source\repos\Martha Confeccoes\Martha Confeccoes\bin\Debug\Martha Confeccoes.exe.config
+C:\Users\W7\source\repos\Martha Confeccoes\Martha Confeccoes\bin\Debug\Martha Confeccoes.exe
+C:\Users\W7\source\repos\Martha Confeccoes\Martha Confeccoes\bin\Debug\Martha Confeccoes.pdb
+C:\Users\W7\source\repos\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.csprojAssemblyReference.cache
+C:\Users\W7\source\repos\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes.Form1.resources
+C:\Users\W7\source\repos\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes.Properties.Resources.resources
+C:\Users\W7\source\repos\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.csproj.GenerateResource.cache
+C:\Users\W7\source\repos\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.csproj.CoreCompileInputs.cache
+C:\Users\W7\source\repos\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.exe
+C:\Users\W7\source\repos\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.pdb
+C:\Users\W7\source\repos\Martha Confeccoes\Martha Confeccoes\bin\Debug\martinha.mdf
+C:\Users\W7\source\repos\Martha Confeccoes\Martha Confeccoes\bin\Debug\martinha_log.ldf
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\bin\Debug\martinha.mdf
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\bin\Debug\martinha_log.ldf
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\bin\Debug\Martha Confeccoes.exe.config
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\bin\Debug\Martha Confeccoes.exe
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\bin\Debug\Martha Confeccoes.pdb
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.csprojAssemblyReference.cache
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes.Properties.Resources.resources
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.csproj.GenerateResource.cache
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.csproj.CoreCompileInputs.cache
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.exe
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.pdb
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Container.resources
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes.Form_Pedido.resources
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes.Form_Produto.resources
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Cliente.resources
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Fornecedor.resources
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Estoque.resources
+C:\Users\W7\OneDrive - Centro Paula Souza - FATEC\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Fornecimento.resources
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\bin\Debug\martinha.mdf
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\bin\Debug\martinha_log.ldf
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\bin\Debug\Martha Confeccoes.exe.config
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\bin\Debug\Martha Confeccoes.exe
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\bin\Debug\Martha Confeccoes.pdb
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Container.resources
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Estoque.resources
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Fornecedor.resources
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Fornecimento.resources
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes.Form_Pedido.resources
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes.Form_Produto.resources
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Cliente.resources
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes.Properties.Resources.resources
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.exe
+C:\Users\mathe\OneDrive\Ambiente de Trabalho\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.pdb
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\bin\Debug\Martha Confeccoes.exe.config
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\bin\Debug\Martha Confeccoes.exe
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\bin\Debug\Martha Confeccoes.pdb
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Container.resources
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Estoque.resources
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Fornecedor.resources
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes.Form_Pedido.resources
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes.Form_Produto.resources
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Cliente.resources
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes.Properties.Resources.resources
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.exe
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha Confeccoes.pdb
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\obj\Debug\Martha_Confeccoes._1Apresentacao.Form_Producao.resources
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\bin\Debug\martinha.mdf
+C:\Users\mathe\OneDrive - Fatec Centro Paula Souza\Coding\Visual Studio Projects\Martha Confeccoes\Martha Confeccoes\bin\Debug\martinha_log.ldf
